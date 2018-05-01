@@ -1,0 +1,5 @@
+{
+    "checkStatus": "http://p.nju.edu.cn/portal_io/selfservice/userinfo/getlist",
+    "logOut": "http://p.nju.edu.cn/portal_io/logout",
+    "logIn": "http://p.nju.edu.cn/portal_io/login?"
+}
