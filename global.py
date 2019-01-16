@@ -60,8 +60,8 @@ def runKeep(args):
                 print("Replacing...")
                 logOut(urls['logOut'])
                 time.sleep(3)
-                logIn(urls['logIn'], user)
-                print("Replace done")
+            logIn(urls['logIn'], user)
+            print("Login")
 
         time.sleep(60)
 
